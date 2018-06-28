@@ -7,3 +7,4 @@ depth-first search and breadth-first search algorithms.
 
 Here is a graph we will program in graph_traversal.php:
 
+![alt text](https://raw.githubusercontent.com/vgrankin/php_common_algorithms/master/graph_traversal/graph.gif)
